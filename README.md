@@ -1,8 +1,11 @@
 # A (very) Simple Digital Card
 
-[Digital Card](https://sanjay-karki.github.io/mycard/)
+https://sanjay-karki.github.io/mycard/
 
-## Built with
+### :hammer_and_wrench:	Built with
 
-React
+- HTML 5
+- CSS 3
+- JavaScript
+- [React](https://reactjs.org/) - JS Library
 
