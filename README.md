@@ -1,4 +1,4 @@
-# Digital Card
+# :card_index:	Digital Card
 A (very) simple one 
 
 https://sanjay-karki.github.io/mycard/
