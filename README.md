@@ -1,4 +1,5 @@
-# A (very) Simple Digital Card
+# Digital Card
+A (very) simple one 
 
 https://sanjay-karki.github.io/mycard/
 
